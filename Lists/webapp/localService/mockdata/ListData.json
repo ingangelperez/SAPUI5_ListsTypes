@@ -1,0 +1,354 @@
+{
+    "Products": [
+        {
+            "Id": "P1",
+            "Material": "Portátil",
+            "Brand": "Compaq",
+            "Model": "610",
+            "Weight": "3 KG",
+            "Price": "300",
+            "Currency": "EUR",
+            "Properties": [
+                {
+                    "Id": "1",
+                    "Text": "Text 1"
+                },
+                {
+                    "Id": "2",
+                    "Text": "Text 2"
+                },
+                {
+                    "Id": "3",
+                    "Text": "Text 3"
+                },
+                {
+                    "Id": "4",
+                    "Text": "Text 4"
+                }
+            ]
+        },
+        {
+            "Id": "P11",
+            "Material": "Portátil",
+            "Brand": "Compaq",
+            "Model": "Presario",
+            "Weight": "2.5 KG",
+            "Price": "280",
+            "Currency": "EUR",
+            "Properties": [
+                {
+                    "Id": "1",
+                    "Text": "Text 1"
+                },
+                {
+                    "Id": "2",
+                    "Text": "Text 2"
+                },
+                {
+                    "Id": "3",
+                    "Text": "Text 3"
+                },
+                {
+                    "Id": "4",
+                    "Text": "Text 4"
+                }
+            ]
+        },
+        {
+            "Id": "P2",
+            "Material": "Desktop",
+            "Brand": "HP",
+            "Model": "911",
+            "Weight": "3 KG",
+            "Price": "450",
+            "Currency": "EUR",
+            "Properties": [
+                {
+                    "Id": "1",
+                    "Text": "Text 1"
+                },
+                {
+                    "Id": "2",
+                    "Text": "Text 2"
+                },
+                {
+                    "Id": "3",
+                    "Text": "Text 3"
+                },
+                {
+                    "Id": "4",
+                    "Text": "Text 4"
+                }
+            ]
+        },
+        {
+            "Id": "P3",
+            "Material": "Portátil",
+            "Brand": "ASUS",
+            "Model": "VivoBook - AMD",
+            "Weight": "3 KG",
+            "Price": "750",
+            "Currency": "EUR",
+            "Properties": [
+                {
+                    "Id": "1",
+                    "Text": "Text 1"
+                },
+                {
+                    "Id": "2",
+                    "Text": "Text 2"
+                },
+                {
+                    "Id": "3",
+                    "Text": "Text 3"
+                },
+                {
+                    "Id": "4",
+                    "Text": "Text 4"
+                }
+            ]
+        },
+        {
+            "Id": "P31",
+            "Material": "Portátil",
+            "Brand": "ASUS",
+            "Model": "VivoBook - Intel",
+            "Weight": "3 KG",
+            "Price": "950",
+            "Currency": "EUR",
+            "Properties": [
+                {
+                    "Id": "1",
+                    "Text": "Text 1"
+                },
+                {
+                    "Id": "2",
+                    "Text": "Text 2"
+                },
+                {
+                    "Id": "3",
+                    "Text": "Text 3"
+                },
+                {
+                    "Id": "4",
+                    "Text": "Text 4"
+                }
+            ]
+        },
+        {
+            "Id": "P32",
+            "Material": "Portátil",
+            "Brand": "ASUS",
+            "Model": "VivoBook - AMD RYZEN 15\"",
+            "Weight": "3 KG",
+            "Price": "1000",
+            "Currency": "EUR",
+            "Properties": [
+                {
+                    "Id": "1",
+                    "Text": "Text 1"
+                },
+                {
+                    "Id": "2",
+                    "Text": "Text 2"
+                },
+                {
+                    "Id": "3",
+                    "Text": "Text 3"
+                },
+                {
+                    "Id": "4",
+                    "Text": "Text 4"
+                }
+            ]
+        },
+        {
+            "Id": "P4",
+            "Material": "PC",
+            "Brand": "ACER",
+            "Model": "ASPIRE",
+            "Weight": "7 KG",
+            "Price": "420",
+            "Currency": "EUR",
+            "Properties": [
+                {
+                    "Id": "1",
+                    "Text": "Text 1"
+                },
+                {
+                    "Id": "2",
+                    "Text": "Text 2"
+                },
+                {
+                    "Id": "3",
+                    "Text": "Text 3"
+                },
+                {
+                    "Id": "4",
+                    "Text": "Text 4"
+                }
+            ]
+        },
+        {
+            "Id": "P41",
+            "Material": "PC",
+            "Brand": "ACER",
+            "Model": "ASPIRE - Intel Optane Memory",
+            "Weight": "7 KG",
+            "Price": "620",
+            "Currency": "EUR",
+            "Properties": [
+                {
+                    "Id": "1",
+                    "Text": "Text 1"
+                },
+                {
+                    "Id": "2",
+                    "Text": "Text 2"
+                },
+                {
+                    "Id": "3",
+                    "Text": "Text 3"
+                },
+                {
+                    "Id": "4",
+                    "Text": "Text 4"
+                }
+            ]
+        },
+        {
+            "Id": "P5",
+            "Material": "Grapadora",
+            "Brand": "American Crafts",
+            "Model": "1600",
+            "Weight": "1 KG",
+            "Price": "20",
+            "Currency": "EUR",
+            "Properties": [
+                {
+                    "Id": "1",
+                    "Text": "Text 1"
+                },
+                {
+                    "Id": "2",
+                    "Text": "Text 2"
+                },
+                {
+                    "Id": "3",
+                    "Text": "Text 3"
+                },
+                {
+                    "Id": "4",
+                    "Text": "Text 4"
+                }
+            ]
+        },
+        {
+            "Id": "P6",
+            "Material": "Silla de Escritorio",
+            "Brand": "ASPEN",
+            "Model": " Estándar R45",
+            "Weight": "5 KG",
+            "Price": "96",
+            "Currency": "EUR",
+            "Properties": [
+                {
+                    "Id": "1",
+                    "Text": "Text 1"
+                },
+                {
+                    "Id": "2",
+                    "Text": "Text 2"
+                },
+                {
+                    "Id": "3",
+                    "Text": "Text 3"
+                },
+                {
+                    "Id": "4",
+                    "Text": "Text 4"
+                }
+            ]
+        },
+        {
+            "Id": "P7",
+            "Material": "Silla de Escritorio",
+            "Brand": "ASPEN",
+            "Model": "Rock One",
+            "Weight": "8 KG",
+            "Price": "120",
+            "Currency": "EUR",
+            "Properties": [
+                {
+                    "Id": "1",
+                    "Text": "Text 1"
+                },
+                {
+                    "Id": "2",
+                    "Text": "Text 2"
+                },
+                {
+                    "Id": "3",
+                    "Text": "Text 3"
+                },
+                {
+                    "Id": "4",
+                    "Text": "Text 4"
+                }
+            ]
+        },
+        {
+            "Id": "P8",
+            "Material": "Silla de Escritorio",
+            "Brand": "ASPEN",
+            "Model": "Matrix Design",
+            "Weight": "10 KG",
+            "Price": "220",
+            "Currency": "EUR",
+            "Properties": [
+                {
+                    "Id": "1",
+                    "Text": "Text 1"
+                },
+                {
+                    "Id": "2",
+                    "Text": "Text 2"
+                },
+                {
+                    "Id": "3",
+                    "Text": "Text 3"
+                },
+                {
+                    "Id": "4",
+                    "Text": "Text 4"
+                }
+            ]
+        }
+    ],
+    "News": [
+        {
+            "Title": "Los billetes del ‘AVE barato’ de Madrid a Barcelona costarán entre 10 y 60 euros",
+            "Description": "El servicio contará en su estreno con dos frecuencias en cada sentido aunque al final de 2020 se extenderán a cinco viajes. Los trenes partirán de las estaciones de Sants en Barcelona y de la de Atocha en Madrid",
+            "Unread": true,
+            "Author": " EL PAÍS",
+            "Priority": "Medium",
+            "ShowCloseButton": false
+        },
+        {
+            "Title": "Adif pone en marcha el 'macroproyecto' para convertir Chamartín en 'la mejor estación de Europa'",
+            "Description": "La compañía pública titular y gestora de las infraestructuras ferroviarias dará el pistoletazo de salida a este desarrollo en la última reunión de su consejo de administración de este año, que previsiblemente aprobará sacar a concurso el contrato de redacción del proyecto base del complejo de la nueva estación.",
+            "Unread": false,
+            "Author": "20 minutos",
+            "Priority": "High",
+            "ShowCloseButton": true
+        },
+        {
+            "Title": "Los coches sin distintivo ambiental no podrán aparcar en la zona SER de Madrid desde principios de año",
+            "Description": "El Ayuntamiento de Madrid inicia esta semana la campaña informativa sobre la nueva restricción que entrará en vigor a partir del próximo 1 de enero de 2020 en materia de movilidad y medioambiente",
+            "Unread": true,
+            "Author": "EL MUNDO",
+            "Priority": "None",
+            "ShowCloseButton": true
+        }
+    ]
+}
